@@ -1,19 +1,24 @@
 <h1 align="center">Hi! I'm Meagan 🌱</h1>
 
 <h3 align="center">Master of Environmental Data Science Student</h3>
-
+<h3 align="center">Environmental Justice | Groundwater | Data Science + GIS </h3>
 <br>
 
-👩🏽‍💻 **Personal website:** [meaganbrown.github.io](https://meaganbrown.github.io/)
+💻 **Personal website:** [meaganbrown.github.io](https://meaganbrown.github.io/)
 
 🐦 **Twitter:** [@meagan__brown](https://twitter.com/meagan__brown)
 
 ### What am I up to? 
 
-### Experience
+📚 Currently studying environmental data science and actively seeking opportunities to apply my research, data science, and environmental background
 
-- 2021 - present: Data Training Coordintor (NCEAS)
-- 2020 - 2021: Data Science Fellow (NCEAS)
+### R Experience
+- **Fall   2022:** Statistics for Environmental Data Science (Used R to determine if there is a statistically significant relationship between groundwater levels and fire intensity in California) 
+- **Summer 2022:** Introduction to R masters course
+- **2021 - 2022:** SGMA GSP Reviewer & Mapper (Used R to produce histograms for well depth distributions across CA groundwater basins)
+- **Winter 2021:** Exploring Water Data (Big Data Wrangling & Visualization in R)
+- **2020 - 2021:** Environmental Studies Senior thesis (Created maps of California groundwater basins in R for my project)
+- **Summer 2020:** Geographic Information Systems Introduction (GIS applications in R)
 
 ### Education
 
