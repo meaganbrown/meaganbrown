@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Meagan 🌱</h1>
 
 <h3 align="center">Master of Environmental Data Science Student</h3>
-<h3 align="center">Environmental Justice | Groundwater | Data Science + GIS </h3>
+<h3 align="center">Environmental Justice | Groundwater💧 | Data Science + GIS </h3>
 <br>
 
 💻 **Personal website:** [meaganbrown.github.io](https://meaganbrown.github.io/)
@@ -21,7 +21,8 @@
 - **Summer 2020:** Geographic Information Systems Introduction (GIS applications in R)
 
 ### Python Experience
-
+- **Fall   2022:** Environmental Data (Used python and google earth engine for environmental data analysis)
+- **Summer 2022:** Python for Environmental Data Science (Introduced to Python)
 
 ### Education
 
