@@ -11,6 +11,7 @@
 ### What am I up to? 
 
 📚 Currently studying environmental data science and actively seeking opportunities to apply my research, data science, and environmental background
+<br>
 🔥💧 Working with The Nature Conservancy and 3 other masters students on a 6 month project to integrate groundwater data into wildfire models in California
 
 ### R Experience
