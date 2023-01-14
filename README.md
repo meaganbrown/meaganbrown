@@ -20,6 +20,9 @@
 - **2020 - 2021:** Environmental Studies Senior thesis (Created maps of California groundwater basins in R for my project)
 - **Summer 2020:** Geographic Information Systems Introduction (GIS applications in R)
 
+### Python Experience
+
+
 ### Education
 
 - MEDS (2022): Master of Environmental Data Science (Bren School of Environmental Science & Management - UC Santa Barbara)
