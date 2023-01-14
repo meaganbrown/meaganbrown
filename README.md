@@ -11,11 +11,12 @@
 ### What am I up to? 
 
 📚 Currently studying environmental data science and actively seeking opportunities to apply my research, data science, and environmental background
+🔥💧 Working with The Nature Conservancy and 3 other masters students on a 6 month project to integrate groundwater data into wildfire models in California
 
 ### R Experience
 - **Winter 2022:** Machine Learning (Masters class taught in R)
 - **Fall   2022:** Statistics for Environmental Data Science (Used R to determine if there is a statistically significant relationship between groundwater levels and fire intensity in California) 
-- **Summer 2022:** Introduction to R masters course
+- **Summer 2022:** Introduction to R masters course (Learned basics of R and GitHub)
 - **2021 - 2022:** SGMA GSP Reviewer & Mapper (Used R to produce histograms for well depth distributions across CA groundwater basins)
 - **Winter 2021:** Exploring Water Data (Big Data Wrangling & Visualization in R)
 - **2020 - 2021:** Environmental Studies Senior thesis (Created maps of California groundwater basins in R for my project)
