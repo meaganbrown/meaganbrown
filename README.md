@@ -19,7 +19,7 @@
 ### R Experience
 - **Winter 2022:** Environmental Policy Evaluation (Masters class taught in R)
 - **Winter 2022:** Machine Learning (Masters class taught in R)
-- **Fall   2022:** Statistics for Environmental Data Science (Used R to determine if there is a statistically significant relationship between groundwater levels and fire intensity in California) 
+- **Fall   2022:** Statistics for Environmental Data Science (Used R to determine if there is a statistically significant relationship between groundwater levels and fire size in California) 
 - **Summer 2022:** Introduction to R masters course (Learned basics of R and GitHub)
 - **2021 - 2022:** SGMA GSP Reviewer & Mapper (Used R to produce histograms for well depth distributions across CA groundwater basins)
 - **Winter 2021:** Exploring Water Data (Big Data Wrangling & Visualization in R)
