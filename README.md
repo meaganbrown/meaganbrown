@@ -17,8 +17,10 @@
 🔥💧 Working with The Nature Conservancy and 3 other masters students on a 6 month project to analyze the relationship between wildfire and groundwater dependent ecosystems (GDEs) in California. This project has a heavy focus on statistical analysis and geospatial applications in R. The project results will be displayed on a Shiny Dashboard -- stay tuned!
 
 ### R Experience
-- **Winter 2022:** Environmental Policy Evaluation (Masters class taught in R)
-- **Winter 2022:** Machine Learning (Masters class taught in R)
+- **Spring 2023:** Text Sentiment Analysis (Used R for text processing and classification, semantics, and natural language parsing)
+- **Spring 2023:** Modeling Environmental Systems (Used R to develop static, dynamic, spatial models, etc.)
+- **Winter 2022:** Environmental Policy Evaluation (Used R to measure the causal effect of policies on environmental outcomes of interest)
+- **Winter 2022:** Machine Learning (Used R to process big/complex data and extract knowledge)
 - **Fall   2022:** Statistics for Environmental Data Science (Used R to determine if there is a statistically significant relationship between groundwater levels and fire size in California) 
 - **Summer 2022:** Introduction to R masters course (Learned basics of R and GitHub)
 - **2021 - 2022:** SGMA GSP Reviewer & Mapper (Used R to produce histograms for well depth distributions across CA groundwater basins)
