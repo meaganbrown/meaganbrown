@@ -29,6 +29,7 @@
 - **Summer 2020:** Geographic Information Systems Introduction (GIS applications in R)
 
 ### Python Experience
+- **May 16 - May 18 2023:** Data Analysis and Visualization in Python Workshop (Cleaned & Created Visualizations in Python)
 - **Fall   2022:** Environmental Data (Used python and google earth engine for environmental data analysis)
 - **Summer 2022:** Python for Environmental Data Science (Introduced to Python)
 
