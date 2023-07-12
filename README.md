@@ -12,7 +12,7 @@
 
 👩🏻‍💻📊 Actively seeking opportunities to apply my research, data science, and environmental background
 
-💧 Working with the Public Policy Institute of California's Water Policy Center to assess groundwater recharge efforts in California's San Joaquin Valley
+💧 Working with the Public Policy Institute of California's [Water Policy Center](https://www.ppic.org/water/about-the-center/) to assess groundwater recharge efforts in California's San Joaquin Valley
 
 💧 Gathering public water supply data across the US for cities with greater than 500,000 residents. We want to know how much of each cities water supply is from groundwater vs other sources. 
 
