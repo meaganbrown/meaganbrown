@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Meagan 🌱</h1>
 
-<h3 align="center">Master of Environmental Data Science Student</h3>
+<h3 align="center">Environmental Data Scienctist</h3>
 <h3 align="center">Environmental Justice | Groundwater💧 | Data Science (GIS, R) </h3>
 <br>
 
@@ -10,11 +10,11 @@
 
 ### What am I up to? 
 
-📚 Currently studying environmental data science and actively seeking opportunities to apply my research, data science, and environmental background
+👩🏻‍💻📊 Actively seeking opportunities to apply my research, data science, and environmental background
+
+💧 Working with the Public Policy Institute of California's Water Policy Center to assess groundwater recharge efforts in California's San Joaquin Valley
 
 💧 Gathering public water supply data across the US for cities with greater than 500,000 residents. We want to know how much of each cities water supply is from groundwater vs other sources. 
-
-🔥💧 Working with The Nature Conservancy and 3 other masters students on a 6 month project to analyze the relationship between wildfire and groundwater dependent ecosystems (GDEs) in California. This project has a heavy focus on statistical analysis and geospatial applications in R. The project results will be displayed on a Shiny Dashboard -- stay tuned!
 
 ### R Experience
 - **Spring 2023:** Text Sentiment Analysis (Used R for text processing, classification, semantics, and natural language parsing)
