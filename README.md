@@ -10,11 +10,7 @@
 
 ### What am I up to? 
 
-👩🏻‍💻📊 Actively seeking opportunities to apply my research, data science, and environmental background
-
-💧 Working with the Public Policy Institute of California's [Water Policy Center](https://www.ppic.org/water/about-the-center/) to assess groundwater recharge efforts in California's San Joaquin Valley
-
-💧 Gathering public water supply data across the US for cities with greater than 500,000 residents. We want to know how much of each cities water supply is from groundwater vs other sources. 
+👩🏻‍💻📊 Using Python and ArcgisPro at [Pathways Climate Institute](https://www.pathwaysclimate.com/about) to understand how groundwater, sea level rise, and precipitation are changing in response to climate change. 
 
 ### R Experience
 - **Spring 2023:** Text Sentiment Analysis (Used R for text processing, classification, semantics, and natural language parsing)
@@ -29,6 +25,7 @@
 - **Summer 2020:** Geographic Information Systems Introduction (GIS applications in R)
 
 ### Python Experience
+- **September 2023 - Present:** Working with [Pathways Climate Institute](https://www.pathwaysclimate.com/about) on various climate change projects. 
 - **May 16 - May 18 2023:** Data Analysis and Visualization in Python Workshop (Cleaned & Created Visualizations in Python)
 - **Fall   2022:** Environmental Data (Used python and google earth engine for environmental data analysis)
 - **Summer 2022:** Python for Environmental Data Science (Introduced to Python)
@@ -37,6 +34,10 @@
 
 - MEDS (2022): Master of Environmental Data Science (Bren School of Environmental Science & Management - UC Santa Barbara)
 - BS (2021): Environmental Studies (UC Santa Barbara)
+
+### Additional Experience
+💧 Worked with the Public Policy Institute of California's [Water Policy Center](https://www.ppic.org/water/about-the-center/) to assess groundwater recharge efforts in California's San Joaquin Valley
+💧 Gathered public water supply data across the US for cities with greater than 500,000 residents. We want to know how much of each cities water supply is from groundwater vs other sources. 
 
 
 <!--
