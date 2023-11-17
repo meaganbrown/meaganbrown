@@ -12,6 +12,12 @@
 
 👩🏻‍💻📊 Using Python and ArcgisPro at [Pathways Climate Institute](https://www.pathwaysclimate.com/about) to understand how groundwater, sea level rise, and precipitation are changing in response to climate change. 
 
+### Python Experience
+- **September 2023 - Present:** Working with [Pathways Climate Institute](https://www.pathwaysclimate.com/about) on various climate change projects. 
+- **May 16 - May 18 2023:** Data Analysis and Visualization in Python Workshop (Cleaned & Created Visualizations in Python)
+- **Fall   2022:** Environmental Data (Used python and google earth engine for environmental data analysis)
+- **Summer 2022:** Python for Environmental Data Science (Introduced to Python)
+
 ### R Experience
 - **Spring 2023:** Text Sentiment Analysis (Used R for text processing, classification, semantics, and natural language parsing)
 - **Spring 2023:** Modeling Environmental Systems (Used R to develop static, dynamic and spatial models)
@@ -23,12 +29,6 @@
 - **Winter 2021:** Exploring Water Data (Big Data Wrangling & Visualization in R)
 - **2020 - 2021:** Environmental Studies Senior thesis (Created maps of California groundwater basins in R for my project)
 - **Summer 2020:** Geographic Information Systems Introduction (GIS applications in R)
-
-### Python Experience
-- **September 2023 - Present:** Working with [Pathways Climate Institute](https://www.pathwaysclimate.com/about) on various climate change projects. 
-- **May 16 - May 18 2023:** Data Analysis and Visualization in Python Workshop (Cleaned & Created Visualizations in Python)
-- **Fall   2022:** Environmental Data (Used python and google earth engine for environmental data analysis)
-- **Summer 2022:** Python for Environmental Data Science (Introduced to Python)
 
 ### Education
 
