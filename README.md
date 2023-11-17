@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Meagan 🌱</h1>
 
 <h3 align="center">Environmental Data Scienctist</h3>
-<h3 align="center">Environmental Justice | Groundwater💧 | Data Science (GIS, R) </h3>
+<h3 align="center">Environmental Justice | Groundwater💧 | Data Science (Python, GIS, R) </h3>
 <br>
 
 💻 **Personal website:** [meaganbrown.github.io](https://meaganbrown.github.io/)
