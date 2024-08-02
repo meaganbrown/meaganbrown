@@ -6,8 +6,6 @@
 
 💻 **Personal website:** [meaganbrown.github.io](https://meaganbrown.github.io/)
 
-🐦 **Twitter:** [@meagan__brown](https://twitter.com/meagan__brown)
-
 ### What am I up to? 
 
 👩🏻‍💻📊 Using Python and ArcgisPro at [Pathways Climate Institute](https://www.pathwaysclimate.com/about) to understand how groundwater, sea level rise, and precipitation are changing in response to climate change. 
